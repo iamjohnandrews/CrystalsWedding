@@ -283,7 +283,7 @@ jQuery(document).ready(function() {
 $(function(){
 	
 	var note = $('#note'),
-		ts = new Date(2016, 0, 1),
+		ts = new Date(2016, 4, 14),
 		newYear = true;
 	
 	if((new Date()) > ts){
